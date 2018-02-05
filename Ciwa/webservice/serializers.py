@@ -8,12 +8,12 @@ entity = api.model('Resource', {
 })
 
 conversation_content = api.model('Conversation', {
-    'conversation_id': fields.String(min=5, max=50, description="conversation identification code"),
+    'conversation_id': fields.String(description="conversation identification code"),
     'count': fields.Integer(description="count of conversations under of conversation_id"),
-    'request_id': fields.String(min=5, max=50, description="Request ID"),
-    'client_txt': fields.String(min=5, description="text message give by the user"),
-    'response_id': fields.String(min=5, max=50, description="Response ID"),
-    'response_txt': fields.String(min=5, description="text message given as the response"),
+    'request_id': fields.String(description="Request ID"),
+    'client_txt': fields.String(description="text message give by the user"),
+    'response_id': fields.String(description="Response ID"),
+    'response_txt': fields.String(description="text message given as the response"),
 })
 
 conversation = api.inherit('Conversation Model', conversation_content, {

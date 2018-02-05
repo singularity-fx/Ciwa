@@ -6,7 +6,7 @@ import settings
 
 log = logging.getLogger(__name__)
 
-api = Api(version='1.0', title='Ciwa API',
+api = Api(version='1.0', title='Ciwa API Documentation',
           description='API powered by Ciwa - An AI enabled conversation chatbot')
 
 
