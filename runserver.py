@@ -4,7 +4,6 @@ import settings
 from flask import Flask, Blueprint
 from Ciwa.webservice.controller.conversation_controller import ns as conversation_namespace
 from Ciwa.webservice.api import api
-# from rest_api_demo.database import db
 
 app = Flask(__name__)
 log = logging.getLogger(__name__)

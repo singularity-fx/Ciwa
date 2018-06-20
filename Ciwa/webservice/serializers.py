@@ -2,18 +2,18 @@ from flask_restplus import fields
 from Ciwa.webservice.api import api
 
 entity = api.model('Resource', {
-    'name': fields.String(description="name of the entity"),
-    'type': fields.String(description="type of the entity"),
-    'value': fields.String(description="value of the entity")
+    'name': fields.String(description="Name of the entity"),
+    'type': fields.String(description="Type of the entity"),
+    'value': fields.String(description="Value of the entity")
 })
 
 conversation_content = api.model('Conversation', {
-    'conversation_id': fields.String(description="conversation identification code"),
-    'count': fields.Integer(description="count of conversations under of conversation_id"),
+    'conversation_id': fields.String(description="Conversation identification code"),
+    'count': fields.Integer(description="Count of conversations under of conversation_id"),
     'request_id': fields.String(description="Request ID"),
-    'client_txt': fields.String(description="text message give by the user"),
+    'client_txt': fields.String(description="Text message give by the user"),
     'response_id': fields.String(description="Response ID"),
-    'response_txt': fields.String(description="text message given as the response"),
+    'response_txt': fields.String(description="Text message given as the response"),
 })
 
 conversation = api.inherit('Conversation Model', conversation_content, {

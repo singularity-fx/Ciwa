@@ -12,7 +12,7 @@ ns = api.namespace('ciwa', description='Ciwa Conversation APIs')
 @ns.route('/api/v1/conversation')
 class ConversationController(Resource):
     """
-        this is a POST api for the conversation between the user and the machine
+        This is a POST api for the conversation between the user and the machine
     """
 
     @api.expect(conversation)
