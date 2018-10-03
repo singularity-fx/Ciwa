@@ -1,0 +1,1125 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "text": "Hi", 
+        "intent": "greet"
+      }, 
+      {
+        "text": "Hey", 
+        "intent": "greet"
+      }, 
+      {
+        "text": "Hi bot", 
+        "intent": "greet"
+      }, 
+      {
+        "text": "Hey bot", 
+        "intent": "greet"
+      }, 
+      {
+        "text": "Hello", 
+        "intent": "greet"
+      }, 
+      {
+        "text": "Good morning", 
+        "intent": "greet"
+      }, 
+      {
+        "text": "hi again", 
+        "intent": "greet"
+      }, 
+      {
+        "text": "hi folks", 
+        "intent": "greet"
+      }, 
+      {
+        "text": "hi Mister", 
+        "intent": "greet"
+      }, 
+      {
+        "text": "hi pal!", 
+        "intent": "greet"
+      }, 
+      {
+        "text": "hi there", 
+        "intent": "greet"
+      }, 
+      {
+        "text": "greetings", 
+        "intent": "greet"
+      }, 
+      {
+        "text": "hello everybody", 
+        "intent": "greet"
+      }, 
+      {
+        "text": "hello is anybody there", 
+        "intent": "greet"
+      }, 
+      {
+        "text": "hello robot", 
+        "intent": "greet"
+      }, 
+      {
+        "text": "hallo", 
+        "intent": "greet"
+      }, 
+      {
+        "text": "heeey", 
+        "intent": "greet"
+      }, 
+      {
+        "text": "hi hi", 
+        "intent": "greet"
+      }, 
+      {
+        "text": "hey", 
+        "intent": "greet"
+      }, 
+      {
+        "text": "hey hey", 
+        "intent": "greet"
+      }, 
+      {
+        "text": "hello there", 
+        "intent": "greet"
+      }, 
+      {
+        "text": "hi", 
+        "intent": "greet"
+      }, 
+      {
+        "text": "hello", 
+        "intent": "greet"
+      }, 
+      {
+        "text": "yo", 
+        "intent": "greet"
+      }, 
+      {
+        "text": "hola", 
+        "intent": "greet"
+      }, 
+      {
+        "text": "hi?", 
+        "intent": "greet"
+      }, 
+      {
+        "text": "hey bot!", 
+        "intent": "greet"
+      }, 
+      {
+        "text": "hello friend", 
+        "intent": "greet"
+      }, 
+      {
+        "text": "good morning", 
+        "intent": "greet"
+      }, 
+      {
+        "text": "hii", 
+        "intent": "greet"
+      }, 
+      {
+        "text": "hello sweet boy", 
+        "intent": "greet"
+      }, 
+      {
+        "text": "yoo", 
+        "intent": "greet"
+      }, 
+      {
+        "text": "hey there", 
+        "intent": "greet"
+      }, 
+      {
+        "text": "hiihihi", 
+        "intent": "greet"
+      }, 
+      {
+        "text": "hello sweatheart", 
+        "intent": "greet"
+      }, 
+      {
+        "text": "hellooo", 
+        "intent": "greet"
+      }, 
+      {
+        "text": "helloooo", 
+        "intent": "greet"
+      }, 
+      {
+        "text": "heyo", 
+        "intent": "greet"
+      }, 
+      {
+        "text": "ayyyy whaddup", 
+        "intent": "greet"
+      }, 
+      {
+        "text": "hello?", 
+        "intent": "greet"
+      }, 
+      {
+        "text": "Hallo", 
+        "intent": "greet"
+      }, 
+      {
+        "text": "heya", 
+        "intent": "greet"
+      }, 
+      {
+        "text": "hey bot", 
+        "intent": "greet"
+      }, 
+      {
+        "text": "howdy", 
+        "intent": "greet"
+      }, 
+      {
+        "text": "Hellllooooooo", 
+        "intent": "greet"
+      }, 
+      {
+        "text": "whats up", 
+        "intent": "greet"
+      }, 
+      {
+        "text": "Hei", 
+        "intent": "greet"
+      }, 
+      {
+        "text": "Well hello there ;)", 
+        "intent": "greet"
+      }, 
+      {
+        "text": "I said, helllllloooooO!!!!", 
+        "intent": "greet"
+      }, 
+      {
+        "text": "Heya", 
+        "intent": "greet"
+      }, 
+      {
+        "text": "Whats up my bot", 
+        "intent": "greet"
+      }, 
+      {
+        "text": "hiii", 
+        "intent": "greet"
+      }, 
+      {
+        "text": "heyho", 
+        "intent": "greet"
+      }, 
+      {
+        "text": "hey, let's talk", 
+        "intent": "greet"
+      }, 
+      {
+        "text": "hey let's talk", 
+        "intent": "greet"
+      }, 
+      {
+        "text": "jojojo", 
+        "intent": "greet"
+      }, 
+      {
+        "text": "hey dude", 
+        "intent": "greet"
+      }, 
+      {
+        "text": "hello it is me again", 
+        "intent": "greet"
+      }, 
+      {
+        "text": "what up", 
+        "intent": "greet"
+      }, 
+      {
+        "text": "hi there", 
+        "intent": "greet"
+      }, 
+      {
+        "text": "hi", 
+        "intent": "greet"
+      }, 
+      {
+        "text": "jop", 
+        "intent": "greet"
+      }, 
+      {
+        "text": "hi friend", 
+        "intent": "greet"
+      }, 
+      {
+        "text": "hi there it's me", 
+        "intent": "greet"
+      }, 
+      {
+        "text": "goodbye", 
+        "intent": "goodbye"
+      }, 
+      {
+        "text": "goodnight", 
+        "intent": "goodbye"
+      }, 
+      {
+        "text": "good bye", 
+        "intent": "goodbye"
+      }, 
+      {
+        "text": "good night", 
+        "intent": "goodbye"
+      }, 
+      {
+        "text": "see ya", 
+        "intent": "goodbye"
+      }, 
+      {
+        "text": "toodle-oo", 
+        "intent": "goodbye"
+      }, 
+      {
+        "text": "bye bye", 
+        "intent": "goodbye"
+      }, 
+      {
+        "text": "gotta go", 
+        "intent": "goodbye"
+      }, 
+      {
+        "text": "farewell", 
+        "intent": "goodbye"
+      }, 
+      {
+        "text": "catch you later", 
+        "intent": "goodbye"
+      }, 
+      {
+        "text": "bye for now", 
+        "intent": "goodbye"
+      }, 
+      {
+        "text": "bye", 
+        "intent": "goodbye"
+      }, 
+      {
+        "text": "bye was nice talking to you", 
+        "intent": "goodbye"
+      }, 
+      {
+        "text": "bye udo", 
+        "intent": "goodbye"
+      }, 
+      {
+        "text": "bye bye bot", 
+        "intent": "goodbye"
+      }, 
+      {
+        "text": "bye bot", 
+        "intent": "goodbye"
+      }, 
+      {
+        "text": "k byyye #slay", 
+        "intent": "goodbye"
+      }, 
+      {
+        "text": "tlak to you later", 
+        "intent": "goodbye"
+      }, 
+      {
+        "text": "ciao", 
+        "intent": "goodbye"
+      }, 
+      {
+        "text": "Bye bye", 
+        "intent": "goodbye"
+      }, 
+      {
+        "text": "then bye", 
+        "intent": "goodbye"
+      }, 
+      {
+        "text": "tschüssikowski", 
+        "intent": "goodbye"
+      }, 
+      {
+        "text": "bye!", 
+        "intent": "goodbye"
+      }, 
+      {
+        "text": "what is my points", 
+        "intent": "reward-points"
+      }, 
+      {
+        "text": "what is my reward points", 
+        "intent": "reward-points"
+      }, 
+      {
+        "text": "what is my edge reward", 
+        "intent": "reward-points"
+      }, 
+      {
+        "text": "what is edge rewards", 
+        "intent": "reward-points"
+      }, 
+      {
+        "text": "what is my edge reward", 
+        "intent": "reward-points"
+      }, 
+      {
+        "text": "reward", 
+        "intent": "reward-points"
+      }, 
+      {
+        "text": "reward points", 
+        "intent": "reward-points"
+      }, 
+      {
+        "text": "edge points", 
+        "intent": "reward-points"
+      }, 
+      {
+        "text": "edge", 
+        "intent": "reward-points"
+      }, 
+      {
+        "text": "points", 
+        "intent": "reward-points"
+      }, 
+      {
+        "text": "coupons", 
+        "intent": "reward-points"
+      }, 
+      {
+        "text": "what is my coupons", 
+        "intent": "reward-points"
+      }, 
+      {
+        "text": "do i have any points", 
+        "intent": "reward-points"
+      }, 
+      {
+        "text": "do i have any reward", 
+        "intent": "reward-points"
+      }, 
+      {
+        "text": "do i have any rewards", 
+        "intent": "reward-points"
+      }, 
+      {
+        "text": "do i have any reward points", 
+        "intent": "reward-points"
+      }, 
+      {
+        "text": "do i have any edge", 
+        "intent": "reward-points"
+      }, 
+      {
+        "text": "do i have any edge points", 
+        "intent": "reward-points"
+      }, 
+      {
+        "text": "show me the edge points", 
+        "intent": "reward-points"
+      }, 
+      {
+        "text": "sow me all the points", 
+        "intent": "reward-points"
+      }, 
+      {
+        "text": "show me the points", 
+        "intent": "reward-points"
+      }, 
+      {
+        "text": "show me the rewards", 
+        "intent": "reward-points"
+      }, 
+      {
+        "text": "what is my balance", 
+        "intent": "reward-points"
+      }, 
+      {
+        "text": "whats in my wallet", 
+        "intent": "reward-points"
+      }, 
+      {
+        "text": "how much rewards do i have", 
+        "intent": "reward-points"
+      }, 
+      {
+        "entities": [
+          {
+            "start": 24, 
+            "end": 29, 
+            "value": "Shirt", 
+            "entity": "product"
+          }
+        ], 
+        "intent": "searching_for", 
+        "text": "I am looking for a blue Shirt"
+      }, 
+      {
+        "entities": [
+          {
+            "start": 14, 
+            "end": 19, 
+            "value": "shoes", 
+            "entity": "product"
+          }
+        ], 
+        "intent": "searching_for", 
+        "text": "I want to buy shoes"
+      }, 
+      {
+        "entities": [
+          {
+            "start": 25, 
+            "end": 37, 
+            "value": "formal shirt", 
+            "entity": "product"
+          }
+        ], 
+        "intent": "searching_for", 
+        "text": "I am looking for a white formal shirt"
+      }, 
+      {
+        "entities": [
+          {
+            "start": 15, 
+            "end": 20, 
+            "value": "shirt", 
+            "entity": "product"
+          }
+        ], 
+        "intent": "searching_for", 
+        "text": "I need a black shirt"
+      }, 
+      {
+        "entities": [
+          {
+            "start": 12, 
+            "end": 25, 
+            "value": "formal shirts", 
+            "entity": "product"
+          }
+        ], 
+        "intent": "searching_for", 
+        "text": "do you have formal shirts"
+      }, 
+      {
+        "entities": [
+          {
+            "start": 13, 
+            "end": 26, 
+            "value": "casual shirts", 
+            "entity": "product"
+          }
+        ], 
+        "intent": "searching_for", 
+        "text": "show me some casual shirts"
+      }, 
+      {
+        "entities": [
+          {
+            "start": 13, 
+            "end": 17, 
+            "value": "bags", 
+            "entity": "product"
+          }
+        ], 
+        "intent": "searching_for", 
+        "text": "show me some bags"
+      }, 
+      {
+        "text": "whats trending", 
+        "intent": "searching_for"
+      }, 
+      {
+        "entities": [
+          {
+            "start": 19, 
+            "end": 26, 
+            "value": "tshirts", 
+            "entity": "product"
+          }
+        ], 
+        "intent": "searching_for", 
+        "text": "show me some black tshirts"
+      }, 
+      {
+        "entities": [
+          {
+            "start": 18, 
+            "end": 26, 
+            "value": "t-shirts", 
+            "entity": "product"
+          }
+        ], 
+        "intent": "searching_for", 
+        "text": "whats trending in t-shirts"
+      }, 
+      {
+        "entities": [
+          {
+            "start": 19, 
+            "end": 25, 
+            "value": "tshirt", 
+            "entity": "product"
+          }
+        ], 
+        "intent": "searching_for", 
+        "text": "what is popular in tshirt"
+      }, 
+      {
+        "text": "what is in demand", 
+        "intent": "searching_for"
+      }, 
+      {
+        "text": "show me some good stuff", 
+        "intent": "searching_for"
+      }, 
+      {
+        "text": "show me the most bought items", 
+        "intent": "searching_for"
+      }, 
+      {
+        "text": "what do you have", 
+        "intent": "searching_for"
+      }, 
+      {
+        "text": "surprise me", 
+        "intent": "searching_for"
+      }, 
+      {
+        "text": "something good", 
+        "intent": "searching_for"
+      }, 
+      {
+        "entities": [
+          {
+            "start": 22, 
+            "end": 34, 
+            "value": "casual shirts", 
+            "entity": "product"
+          }
+        ], 
+        "intent": "searching_for", 
+        "text": "i am looking for some good clothes"
+      }, 
+      {
+        "text": "i am looking for some part wear", 
+        "intent": "searching_for"
+      }, 
+      {
+        "text": "show me something for party", 
+        "intent": "searching_for"
+      }, 
+      {
+        "entities": [
+          {
+            "start": 14, 
+            "end": 29, 
+            "value": "formal shirts", 
+            "entity": "product"
+          }
+        ], 
+        "intent": "searching_for", 
+        "text": "what should i wear for office"
+      }, 
+      {
+        "entities": [
+          {
+            "start": 19, 
+            "end": 35, 
+            "value": "formal shirts", 
+            "entity": "product"
+          }
+        ], 
+        "intent": "searching_for", 
+        "text": "i am looking for a shirt for office"
+      }, 
+      {
+        "text": "i am looking for", 
+        "intent": "searching_for"
+      }, 
+      {
+        "text": "I am interested in", 
+        "intent": "searching_for"
+      }, 
+      {
+        "text": "I need", 
+        "intent": "searching_for"
+      }, 
+      {
+        "text": "i like to", 
+        "intent": "searching_for"
+      }, 
+      {
+        "text": "i search for", 
+        "intent": "searching_for"
+      }, 
+      {
+        "text": "i am searchng for", 
+        "intent": "searching_for"
+      }, 
+      {
+        "text": "products", 
+        "intent": "searching_for"
+      }, 
+      {
+        "text": "product", 
+        "intent": "searching_for"
+      }, 
+      {
+        "text": "Product", 
+        "intent": "searching_for"
+      }, 
+      {
+        "text": "prodts", 
+        "intent": "searching_for"
+      }, 
+      {
+        "text": "not interested", 
+        "intent": "dont_like"
+      }, 
+      {
+        "text": "I dont need", 
+        "intent": "dont_like"
+      }, 
+      {
+        "text": "I am not interested", 
+        "intent": "dont_like"
+      }, 
+      {
+        "text": "What else do you have", 
+        "intent": "dont_like"
+      }, 
+      {
+        "text": "what else is there", 
+        "intent": "dont_like"
+      }, 
+      {
+        "text": "what other models do you have", 
+        "intent": "dont_like"
+      }, 
+      {
+        "text": "Show me something else", 
+        "intent": "dont_like"
+      }, 
+      {
+        "text": "do you have anything else", 
+        "intent": "dont_like"
+      }, 
+      {
+        "text": "not today", 
+        "intent": "dont_like"
+      }, 
+      {
+        "text": "i dont like this", 
+        "intent": "dont_like"
+      }, 
+      {
+        "text": "Show me anything else", 
+        "intent": "dont_like"
+      }, 
+      {
+        "text": "i dont think this will suit me", 
+        "intent": "dont_like"
+      }, 
+      {
+        "text": "i dont think it will suit me", 
+        "intent": "dont_like"
+      }, 
+      {
+        "text": "i already have this", 
+        "intent": "dont_like"
+      }, 
+      {
+        "text": "I bought this last time", 
+        "intent": "dont_like"
+      }, 
+      {
+        "text": "I already have this color", 
+        "intent": "dont_like"
+      }, 
+      {
+        "text": "I have this color", 
+        "intent": "dont_like"
+      }, 
+      {
+        "text": "will not suit me", 
+        "intent": "dont_like"
+      }, 
+      {
+        "text": "I will come back", 
+        "intent": "dont_like"
+      }, 
+      {
+        "text": "I will return", 
+        "intent": "dont_like"
+      }, 
+      {
+        "text": "I wil buy this next time", 
+        "intent": "dont_like"
+      }, 
+      {
+        "text": "I am just looking", 
+        "intent": "dont_like"
+      }, 
+      {
+        "text": "i am not here to buy", 
+        "intent": "dont_like"
+      }, 
+      {
+        "text": "my size is", 
+        "intent": "find_size_in"
+      }, 
+      {
+        "text": "my foot size is", 
+        "intent": "find_size_in"
+      }, 
+      {
+        "text": "my waist size is", 
+        "intent": "find_size_in"
+      }, 
+      {
+        "text": "chest size is", 
+        "intent": "find_size_in"
+      }, 
+      {
+        "text": "my shirt size is", 
+        "intent": "find_size_in"
+      }, 
+      {
+        "text": "my t-shirt size is", 
+        "intent": "find_size_in"
+      }, 
+      {
+        "text": "my tshirt size is", 
+        "intent": "find_size_in"
+      }, 
+      {
+        "text": "my shoe size is", 
+        "intent": "find_size_in"
+      }, 
+      {
+        "text": "find my size", 
+        "intent": "find_size_in"
+      }, 
+      {
+        "text": "my jeans is size", 
+        "intent": "find_size_in"
+      }, 
+      {
+        "text": "my fit is", 
+        "intent": "find_size_in"
+      }, 
+      {
+        "text": "Show more items", 
+        "intent": "show_more_items"
+      }, 
+      {
+        "text": "show more options", 
+        "intent": "show_more_items"
+      }, 
+      {
+        "text": "show more models", 
+        "intent": "show_more_items"
+      }, 
+      {
+        "text": "show more colours", 
+        "intent": "show_more_items"
+      }, 
+      {
+        "text": "show other options", 
+        "intent": "show_more_items"
+      }, 
+      {
+        "text": "show other items", 
+        "intent": "show_more_items"
+      }, 
+      {
+        "text": "show other models", 
+        "intent": "show_more_items"
+      }, 
+      {
+        "text": "show other colours", 
+        "intent": "show_more_items"
+      }, 
+      {
+        "text": "show more sizes", 
+        "intent": "show_more_items"
+      }, 
+      {
+        "text": "show other sizes", 
+        "intent": "show_more_items"
+      }, 
+      {
+        "text": "show more", 
+        "intent": "show_more_items"
+      }, 
+      {
+        "text": "show other alternatives", 
+        "intent": "show_more_items"
+      }, 
+      {
+        "text": "show next size", 
+        "intent": "show_more_items"
+      }, 
+      {
+        "text": "show alternatives", 
+        "intent": "show_more_items"
+      }, 
+      {
+        "text": "show options", 
+        "intent": "show_more_items"
+      }, 
+      {
+        "text": "show colors", 
+        "intent": "show_more_items"
+      }, 
+      {
+        "text": "show sizes", 
+        "intent": "show_more_items"
+      }, 
+      {
+        "text": "show more categories", 
+        "intent": "show_more_items"
+      }, 
+      {
+        "text": "show other ategories", 
+        "intent": "show_more_items"
+      }, 
+      {
+        "text": "show categories", 
+        "intent": "show_more_items"
+      }, 
+      {
+        "text": "show me something else", 
+        "intent": "show_more_items"
+      }, 
+      {
+        "text": "I want more", 
+        "intent": "show_more_items"
+      }, 
+      {
+        "text": "i need more", 
+        "intent": "show_more_items"
+      }, 
+      {
+        "text": "looking for somthing else", 
+        "intent": "show_more_items"
+      }, 
+      {
+        "text": "looking for somethingelse", 
+        "intent": "show_more_items"
+      }, 
+      {
+        "text": "need more options", 
+        "intent": "show_more_items"
+      }, 
+      {
+        "text": "do you have some more", 
+        "intent": "show_more_items"
+      }, 
+      {
+        "text": "can i have some more", 
+        "intent": "show_more_items"
+      }, 
+      {
+        "text": "cam i have more options", 
+        "intent": "show_more_items"
+      }, 
+      {
+        "text": "do u have more", 
+        "intent": "show_more_items"
+      }, 
+      {
+        "text": "show me the discounts", 
+        "intent": "discounts"
+      }, 
+      {
+        "text": "what are the offers", 
+        "intent": "discounts"
+      }, 
+      {
+        "text": "do have any running offers", 
+        "intent": "discounts"
+      }, 
+      {
+        "text": "are there any offers", 
+        "intent": "discounts"
+      }, 
+      {
+        "text": "discount", 
+        "intent": "discounts"
+      }, 
+      {
+        "text": "discounts", 
+        "intent": "discounts"
+      }, 
+      {
+        "text": "Discounts", 
+        "intent": "discounts"
+      }, 
+      {
+        "text": "Discount", 
+        "intent": "discounts"
+      }, 
+      {
+        "text": "is there a sale running", 
+        "intent": "discounts"
+      }, 
+      {
+        "text": "is there a sale", 
+        "intent": "discounts"
+      }, 
+      {
+        "text": "sale", 
+        "intent": "discounts"
+      }, 
+      {
+        "text": "items on sale", 
+        "intent": "discounts"
+      }, 
+      {
+        "text": "looking for items on sale", 
+        "intent": "discounts"
+      }, 
+      {
+        "text": "how much is the discount", 
+        "intent": "discounts"
+      }, 
+      {
+        "text": "how much is the dicsount", 
+        "intent": "discounts"
+      }, 
+      {
+        "text": "how much discounts you have", 
+        "intent": "discounts"
+      }, 
+      {
+        "text": "do you have discounts", 
+        "intent": "discounts"
+      }, 
+      {
+        "text": "i want discounts", 
+        "intent": "discounts"
+      }, 
+      {
+        "text": "what do u have on discount", 
+        "intent": "discounts"
+      }, 
+      {
+        "text": "do you have offers", 
+        "intent": "discounts"
+      }, 
+      {
+        "text": "show me offers", 
+        "intent": "discounts"
+      }, 
+      {
+        "text": "show me some offers", 
+        "intent": "discounts"
+      }, 
+      {
+        "text": "show me the offers", 
+        "intent": "discounts"
+      }, 
+      {
+        "text": "show me some discounts", 
+        "intent": "discounts"
+      }, 
+      {
+        "text": "give me discounts", 
+        "intent": "discounts"
+      }, 
+      {
+        "text": "give me offers", 
+        "intent": "discounts"
+      }, 
+      {
+        "text": "are there any offer", 
+        "intent": "discounts"
+      }, 
+      {
+        "text": "are there any offers", 
+        "intent": "discounts"
+      }, 
+      {
+        "text": "are there any discount", 
+        "intent": "discounts"
+      }, 
+      {
+        "text": "are there any discounts", 
+        "intent": "discounts"
+      }, 
+      {
+        "text": "i want to give feedback", 
+        "intent": "feedback"
+      }, 
+      {
+        "text": "Feedback", 
+        "intent": "feedback"
+      }, 
+      {
+        "text": "FeedBacks", 
+        "intent": "feedback"
+      }, 
+      {
+        "text": "feedback", 
+        "intent": "feedback"
+      }, 
+      {
+        "text": "i would like to provide feedback", 
+        "intent": "feedback"
+      }, 
+      {
+        "text": "i am angry", 
+        "intent": "feedback"
+      }, 
+      {
+        "text": "i would like to give feedback", 
+        "intent": "feedback"
+      }
+    ], 
+    "entity_synonyms": [
+      {
+        "synonyms": [
+          "shirt for office", 
+          "wear for office"
+        ], 
+        "value": "formal shirts"
+      }, 
+      {
+        "synonyms": [
+          "good clothes"
+        ], 
+        "value": "casual shirts"
+      }
+    ], 
+    "regex_features": [], 
+    "lookup_tables": [
+      {
+        "elements": [
+          "blue", 
+          "beige", 
+          "white", 
+          "black", 
+          "purple", 
+          "green", 
+          "red", 
+          "pink", 
+          "grey", 
+          "brown", 
+          "yellow", 
+          "orange"
+        ], 
+        "name": "color"
+      }
+    ]
+  }
+}

@@ -1,0 +1,281 @@
+## intent:greet
+- Hi
+- Hey
+- Hi bot
+- Hey bot
+- Hello
+- Good morning
+- hi again
+- hi folks
+- hi Mister
+- hi pal!
+- hi there
+- greetings
+- hello everybody
+- hello is anybody there
+- hello robot
+- hallo
+- heeey
+- hi hi
+- hey
+- hey hey
+- hello there
+- hi
+- hello
+- yo
+- hola
+- hi?
+- hey bot!
+- hello friend
+- good morning
+- hii
+- hello sweet boy
+- yoo
+- hey there
+- hiihihi
+- hello sweatheart
+- hellooo
+- helloooo
+- heyo
+- ayyyy whaddup
+- hello?
+- Hallo
+- heya
+- hey bot
+- howdy
+- Hellllooooooo
+- whats up
+- Hei
+- Well hello there ;)
+- I said, helllllloooooO!!!!
+- Heya
+- Whats up my bot
+- hiii
+- heyho
+- hey, let's talk
+- hey let's talk
+- jojojo
+- hey dude
+- hello it is me again
+- what up
+- hi there
+- hi
+- jop
+- hi friend
+- hi there it's me
+
+## intent:goodbye
+- goodbye
+- goodnight
+- good bye
+- good night
+- see ya
+- toodle-oo
+- bye bye
+- gotta go
+- farewell
+- catch you later
+- bye for now
+- bye
+- bye was nice talking to you
+- bye udo
+- bye bye bot
+- bye bot
+- k byyye #slay
+- tlak to you later
+- ciao
+- Bye bye
+- then bye
+- tschüssikowski
+- bye!
+
+## intent:reward-points
+- what is my points
+- what is my reward points
+- what is my edge reward
+- what is edge rewards
+- what is my edge reward
+- reward
+- reward points
+- edge points
+- edge
+- points
+- coupons
+- what is my coupons
+- do i have any points
+- do i have any reward
+- do i have any rewards
+- do i have any reward points
+- do i have any edge
+- do i have any edge points
+- show me the edge points
+- sow me all the points
+- show me the points
+- show me the rewards
+- what is my balance
+- whats in my wallet
+- how much rewards do i have
+
+
+## intent:searching_for
+- I am looking for a blue [Shirt](product)
+- I want to buy [shoes](product)
+- I am looking for a white [formal shirt](product)
+- I need a black [shirt](product)
+- do you have [formal shirts](product)
+- show me some [casual shirts](product)
+- show me some [bags](product)
+- whats trending
+- show me some black [tshirts](product)
+- whats trending in [t-shirts](product)
+- what is popular in [tshirt](product)
+- what is in demand
+- show me some good stuff
+- show me the most bought items
+- what do you have
+- surprise me
+- something good
+- i am looking for some [good clothes](product:casual shirts)
+- i am looking for some part wear
+- show me something for party
+- what should i [wear for office](product:formal shirts)
+- i am looking for a [shirt for office](product:formal shirts)
+- i am looking for
+- I am interested in 
+- I need
+- i like to 
+- i search for 
+- i am searchng for
+- products
+- product
+- Product
+- prodts
+
+
+## intent:dont_like
+- not interested
+- I dont need
+- I am not interested
+- What else do you have
+- what else is there
+- what other models do you have
+- Show me something else
+- do you have anything else
+- not today
+- i dont like this
+- Show me anything else
+- i dont think this will suit me
+- i dont think it will suit me
+- i already have this
+- I bought this last time
+- I already have this color
+- I have this color
+- will not suit me
+- I will come back
+- I will return
+- I wil buy this next time
+- I am just looking
+- i am not here to buy
+
+ 
+## intent:find_size_in
+- my size is 
+- my foot size is 
+- my waist size is
+- chest size is
+- my shirt size is
+- my t-shirt size is
+- my tshirt size is
+- my shoe size is
+- find my size
+- my jeans is size
+- my fit is
+
+
+## intent:show_more_items
+- Show more items
+- show more options
+- show more models
+- show more colours
+- show other options
+- show other items
+- show other models
+- show other colours
+- show more sizes
+- show other sizes
+- show more
+- show other alternatives
+- show next size
+- show alternatives
+- show options
+- show colors
+- show sizes
+- show more categories
+- show other ategories
+- show categories
+- show me something else
+- I want more
+- i need more
+- looking for somthing else
+- looking for somethingelse
+- need more options
+- do you have some more
+- can i have some more 
+- cam i have more options
+- do u have more
+
+##intent:discounts
+- show me the discounts
+- what are the offers
+- do have any running offers
+- are there any offers
+- discount
+- discounts
+- Discounts
+- Discount
+- is there a sale running
+- is there a sale
+- sale
+- items on sale
+- looking for items on sale
+- how much is the discount
+- how much is the dicsount
+- how much discounts you have
+- do you have discounts
+- i want discounts
+- what do u have on discount
+- do you have offers
+- show me offers
+- show me some offers
+- show me the offers
+- show me some discounts
+- give me discounts
+- give me offers
+- are there any offer
+- are there any offers
+- are there any discount
+- are there any discounts 
+
+##intent:feedback
+- i want to give feedback
+- Feedback
+- FeedBacks
+- feedback
+- i would like to provide feedback
+- i am angry
+- i would like to give feedback
+
+
+## lookup:color
+- blue
+- beige
+- white
+- black
+- purple
+- green
+- red
+- pink
+- grey
+- brown
+- yellow
+- orange
